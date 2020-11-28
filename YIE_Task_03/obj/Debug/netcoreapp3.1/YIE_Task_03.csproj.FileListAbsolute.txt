@@ -1,0 +1,13 @@
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.csprojAssemblyReference.cache
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.AssemblyInfoInputs.cache
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.AssemblyInfo.cs
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.csproj.CoreCompileInputs.cache
+E:\practica\TrainingPractice_01\YIE_Task_03\bin\Debug\netcoreapp3.1\YIE_Task_03.exe
+E:\practica\TrainingPractice_01\YIE_Task_03\bin\Debug\netcoreapp3.1\YIE_Task_03.deps.json
+E:\practica\TrainingPractice_01\YIE_Task_03\bin\Debug\netcoreapp3.1\YIE_Task_03.runtimeconfig.json
+E:\practica\TrainingPractice_01\YIE_Task_03\bin\Debug\netcoreapp3.1\YIE_Task_03.runtimeconfig.dev.json
+E:\practica\TrainingPractice_01\YIE_Task_03\bin\Debug\netcoreapp3.1\YIE_Task_03.dll
+E:\practica\TrainingPractice_01\YIE_Task_03\bin\Debug\netcoreapp3.1\YIE_Task_03.pdb
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.dll
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.pdb
+E:\practica\TrainingPractice_01\YIE_Task_03\obj\Debug\netcoreapp3.1\YIE_Task_03.genruntimeconfig.cache
