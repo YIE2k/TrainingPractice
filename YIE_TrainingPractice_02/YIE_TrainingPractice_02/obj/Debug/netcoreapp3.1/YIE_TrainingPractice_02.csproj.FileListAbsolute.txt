@@ -1,0 +1,13 @@
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.csprojAssemblyReference.cache
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.AssemblyInfoInputs.cache
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.AssemblyInfo.cs
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.csproj.CoreCompileInputs.cache
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\bin\Debug\netcoreapp3.1\YIE_TrainingPractice_02.exe
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\bin\Debug\netcoreapp3.1\YIE_TrainingPractice_02.deps.json
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\bin\Debug\netcoreapp3.1\YIE_TrainingPractice_02.runtimeconfig.json
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\bin\Debug\netcoreapp3.1\YIE_TrainingPractice_02.runtimeconfig.dev.json
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\bin\Debug\netcoreapp3.1\YIE_TrainingPractice_02.dll
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\bin\Debug\netcoreapp3.1\YIE_TrainingPractice_02.pdb
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.dll
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.pdb
+E:\practica\YIE_TrainingPractice_02\YIE_TrainingPractice_02\obj\Debug\netcoreapp3.1\YIE_TrainingPractice_02.genruntimeconfig.cache
